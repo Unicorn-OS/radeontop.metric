@@ -17,4 +17,5 @@ sudo apt-get install pkg-config libdrm-dev libncurses-dev
 sudo apt-get install libxcb-dri2-0-dev
 ```
 
-delete: https://github.com/LukeSmithxyz/dwm/issues/160
+~~~delete:
+https://github.com/LukeSmithxyz/dwm/issues/160~~~
