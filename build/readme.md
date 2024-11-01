@@ -10,3 +10,11 @@ sudo apt-get install pkg-config libdrm-devel libncurses-dev
 ```
 sudo apt-get install pkg-config libdrm-dev libncurses-dev
 ```
+
+# Build error:
+## xcb/xcb.h
+https://github.com/LukeSmithxyz/dwm/issues/160
+
+```
+sudo apt install libx11-dev libx11-xcb-dev libxcb-res0-dev
+```
