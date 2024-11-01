@@ -16,5 +16,6 @@ sudo apt-get install pkg-config libdrm-dev libncurses-dev
 https://github.com/LukeSmithxyz/dwm/issues/160
 
 ```
-sudo apt install libx11-dev libx11-xcb-dev libxcb-res0-dev
+#sudo apt install libx11-dev libx11-xcb-dev libxcb-res0-dev
+sudo apt-get install libxcb-dri3-dev
 ```
